@@ -86,12 +86,10 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="soumyaranjansia's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=soumyaranjansia&show_icons=true&hide_border=true" />
+<img align="left" alt="soumyaranjansia's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=soumyaranjansia&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [website]: https://github.com/soumyaranjansia
 [course]: http://vsCodeHero.com
