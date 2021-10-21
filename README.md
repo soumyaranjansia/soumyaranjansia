@@ -1,6 +1,6 @@
 ### Hi there, I'm Rahul - aka [Rahul Tech World][website] 👋
 
-[![Website](https://img.shields.io/website?label=rahultechworld&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=rahultechworld&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://play.google.com/store/apps/dev?id=4921104731757634371&hl=en_US&gl=US)
 [![Twitter Follow](https://img.shields.io/twitter/follow/soumyasiya1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Student, Developer, and Teacher!!
