@@ -87,9 +87,7 @@
 </details>
 
 
-<img align="left" alt="soumyaranjansia's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=soumyaranjansia&show_icons=true&hide_border=true" />
-
-
+<img align="left" alt="soumyaranjansia's GitHub Stats" src="https://github-readme-stats.soumyaranjansia.vercel.app/api?username=soumyaranjansia&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/soumyaranjansia
 [course]: http://vsCodeHero.com
