@@ -7,12 +7,12 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 Started working as Project Manager With New Startup Company.
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Finding Suitable Jobs on Linkedin.
+- 🌱 I’m currently persuing B.tech IN computer science at PMEC ENGG COLLEGE  🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
-- ⚡ Fun fact: I love to draw and play piano
+- ⚡ Fun fact: I love to draw and play mridanga
 
 ### Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px">
 
