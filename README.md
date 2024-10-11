@@ -3,12 +3,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/soumyasiya1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=soumyaranjansia.soumyaranjansia)
 
-## I'm a Backened Developer at @Tata Technologies, and Teacher!!
+## I'm a Backened Developer at Tata Technologies, and Teacher!!
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 - 🔭 Finding Suitable Jobs on Linkedin.
-- 🌱 I’m currently persuing B.tech IN computer science at PMEC ENGG COLLEGE  🤣
+- 🌱 I’m currently working as Senior Solution Developer at <a href="https://myigetit.com">iGETIT</a> By <a href="www.tatatechnologies.com">Tata Technologies</a>  🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
