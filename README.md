@@ -8,7 +8,7 @@
 
 
 - 🔭 Finding Suitable Jobs on Linkedin.
-- 🌱 I’m currently working as Senior Solution Developer at <a href="https://myigetit.com">iGETIT</a> By <a href="www.tatatechnologies.com">Tata Technologies</a>  🤣
+- 🌱 I’m currently working as Senior Solution Developer at <a href="https://myigetit.com">iGETIT</a> By <a href="www.tatatechnologies.com">Tata Technologies</a>  
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
